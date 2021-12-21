@@ -2,6 +2,10 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vHWK1w4kVUFyE0G3WOqXU0LiSaTN6U4A?usp=sharing)
 
+This work has been showcased to the PythonBiellaGroup community on 20/12/2021.
+
+https://pythonbiellagroup.it/it/
+
 ## Context
 Sentiment Analysis, or Opinion Mining, is a sub-field of Natural Language Processing (NLP) that tries to identify and extract opinions within a given text
 The aim of sentiment analysis is to gauge sentiments, evaluations, attitudes and emotions of a speaker/writer based on the computational treatment of subjectivity in a text.
