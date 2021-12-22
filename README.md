@@ -4,6 +4,8 @@
 
 This work has been showcased to the PythonBiellaGroup community on 20/12/2021.
 
+![image](https://user-images.githubusercontent.com/60407477/147065062-a75dd107-b742-4c19-b0d9-1fb70ac5d954.png)
+
 https://pythonbiellagroup.it/it/
 
 ## Context
